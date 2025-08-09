@@ -29,3 +29,8 @@ Each game is self-contained and can be compiled and run individually.
 ### Compile
 ```bash
 g++ filename.cpp -o game
+```
+### Run
+```bash
+./game
+```
